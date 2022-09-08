@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.f1dfb855.chunk.css",
+    "main.js": "/react-resume/static/js/main.2a9f35e2.chunk.js",
+    "main.js.map": "/react-resume/static/js/main.2a9f35e2.chunk.js.map",
+    "runtime-main.js": "/react-resume/static/js/runtime-main.8bbced45.js",
+    "runtime-main.js.map": "/react-resume/static/js/runtime-main.8bbced45.js.map",
+    "static/css/2.d88a60dc.chunk.css": "/react-resume/static/css/2.d88a60dc.chunk.css",
+    "static/js/2.7659ed11.chunk.js": "/react-resume/static/js/2.7659ed11.chunk.js",
+    "static/js/2.7659ed11.chunk.js.map": "/react-resume/static/js/2.7659ed11.chunk.js.map",
+    "index.html": "/react-resume/index.html",
+    "precache-manifest.ec75b59668da1a96ebf58ee0a805f0f0.js": "/react-resume/precache-manifest.ec75b59668da1a96ebf58ee0a805f0f0.js",
+    "service-worker.js": "/react-resume/service-worker.js",
+    "static/css/2.d88a60dc.chunk.css.map": "/react-resume/static/css/2.d88a60dc.chunk.css.map",
+    "static/css/main.f1dfb855.chunk.css.map": "/react-resume/static/css/main.f1dfb855.chunk.css.map",
+    "static/js/2.7659ed11.chunk.js.LICENSE.txt": "/react-resume/static/js/2.7659ed11.chunk.js.LICENSE.txt",
+    "static/media/CSessentials.pdf": "/react-resume/static/media/CSessentials.79c8c45f.pdf",
+    "static/media/NDGLinux.pdf": "/react-resume/static/media/NDGLinux.78401eca.pdf",
+    "static/media/Person1.jpg": "/react-resume/static/media/Person1.78a04fb9.jpg",
+    "static/media/introCS.pdf": "/react-resume/static/media/introCS.0d0c2fb6.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bbced45.js",
+    "static/css/2.d88a60dc.chunk.css",
+    "static/js/2.7659ed11.chunk.js",
+    "static/css/main.f1dfb855.chunk.css",
+    "static/js/main.2a9f35e2.chunk.js"
+  ]
+}
